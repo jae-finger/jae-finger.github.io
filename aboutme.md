@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 100% that nerd
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am an aspiring data science with a background in evolutionary biology.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Education
+#### Data Science
+Lamda School - DSpt4
 
-What else do you need?
+#### M.S. in Biology
+Washington State University - 2016
 
-### my history
+#### B.S. in Biology
+Valparaiso University - 2009
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+### More...
+Back in Chicagoland after a decade. Previously: snails. Currently: IT + Lambda. Future(ly): ?
