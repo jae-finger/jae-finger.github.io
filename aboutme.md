@@ -18,4 +18,4 @@ Valparaiso University - 2009
 
 
 ### More...
-Back in Chicagoland after a decade. Previously: snails. Currently: IT/lambda. Soon(ly): ?
+Back in Chicagoland after a decade. Previously: snails. Currently: IT/lambda school data science. Soon(ly): ?
