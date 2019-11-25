@@ -8,7 +8,7 @@ I am an aspiring data science with a background in evolutionary biology.
 
 ### Education
 #### Data Science
-Lamda School - DSpt4
+Lambda School - DSpt4
 
 #### M.S. in Biology
 Washington State University - 2016
@@ -18,4 +18,4 @@ Valparaiso University - 2009
 
 
 ### More...
-Back in Chicagoland after a decade. Previously: snails. Currently: IT/lambda. Future(ly): ?
+Back in Chicagoland after a decade. Previously: snails. Currently: IT/lambda. Soon(ly): ?
