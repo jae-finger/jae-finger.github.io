@@ -4,7 +4,7 @@ title: About me
 subtitle: 100% that nerd
 ---
 
-I am an aspiring data science with a background in evolutionary biology.
+I am an aspiring data scientist with a background in evolutionary biology.
 
 ### Education
 #### Data Science
