@@ -47,6 +47,9 @@ footer-col: "#696969"
 footer-text-col: "#0E0B16"
 footer-link-col: "#480087"
 
+theme: jekyll-theme-hacker
+
+
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
