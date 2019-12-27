@@ -9,7 +9,7 @@ layout: null
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #e2dde7;
+  color: #000000;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
