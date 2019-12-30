@@ -16,8 +16,6 @@ description: Data Science | Biology | Education
 # baseurl should be an empty string
 #baseurl: ""
 
-theme: jekyll-theme-hacker
-
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
