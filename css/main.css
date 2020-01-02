@@ -7,7 +7,7 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Long Cang', 'Times New Roman', serif;
+  font-family: 'Roboto Mono', 'Times New Roman', serif;
   font-size: 18px;
   color: #ffffff;
   position: relative;
@@ -22,7 +22,7 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Long Cang', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
