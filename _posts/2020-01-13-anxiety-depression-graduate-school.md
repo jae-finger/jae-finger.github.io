@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Anxiety, Depression, and Graduate School
-subtitle: the effects of course workload and graduate advisor attention
+title: the effects of course workload and graduate advisor attention
+subtitle:
 ---
 It’s sort of a secret on college campuses in America I was told.
 Maybe not every college and not a complete secret, but from what the doctor told me, it is most graduate schools.
