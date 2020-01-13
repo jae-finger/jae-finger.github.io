@@ -31,7 +31,7 @@ Another influence on the graduate student psyche is workload. It’s not too har
 It’s a no-brainer then that an environment of constant work, never-ending deadlines, and a perpetual lack of sleep would drive a large portion of students to seek help. But do students with a higher workload seek help more? How about students with a lighter workload? It wouldn’t be hard pressed to assume they would have more time to relax, find time to eat, and catch up on sleep.
 
 <div>
-    <a href="https://plot.ly/~jaefinger/1/?share_key=iKZ8VlBGCTQrxYm54MY58S" target="_blank" title="Fig 2. Mental health and workload" style="display: block; text-align: center;"><img src="https://plot.ly/~jaefinger/1.png?share_key=iKZ8VlBGCTQrxYm54MY58S" alt="Fig 2. Mental health and workload" style="max-width: 100%;width: 650px;"  width="650" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~jaefinger/1/?share_key=iKZ8VlBGCTQrxYm54MY58S" target="_blank" title="Fig 2. Mental health and workload" style="display: block; text-align: center;"><img src="https://plot.ly/~jaefinger/1.png?share_key=iKZ8VlBGCTQrxYm54MY58S" alt="Fig 2. Mental health and workload" style="max-width: 100%;width: 850px;"  width="850" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="jaefinger:1" sharekey-plotly="iKZ8VlBGCTQrxYm54MY58S" src="https://plot.ly/embed.js" async></script>
 </div>
 
