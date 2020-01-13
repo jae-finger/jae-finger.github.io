@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anxiety, Depression, and Graduate School:
+title: Anxiety, Depression, and Graduate School
 subtitle: the effects of course workload and graduate advisor attention
 ---
 It’s sort of a secret on college campuses in America I was told.
