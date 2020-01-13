@@ -14,6 +14,5 @@ Have half of these students reached out for help for anxiety and depression too?
 
 **Maybe we don’t get enough attention**
 I hard a tough decision when I had finally narrowed my choices down to two graduate programs. I joked that I had to choose between one lab — a family holding hands — and the other describing a “team” of independent and unrelated projects. Are students with a clingy advisor instead of one with a more laissez-faire attitude smothered? Or do some busy and distant advisors neglect their students?
-```html
-src="https://jae-finger.github.io/ls-unit1-build-plotly-test/
-```
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://jae-finger.github.io/ls-unit1-build-plotly-test/" height="650" width="100%"></iframe>
