@@ -21,7 +21,8 @@ description: Data Science | Biology | Education
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  GitHub: "https://github.com/jae-finger"
+  Code: "https://github.com/jae-finger"
+  Writing: "https://medium.com/@jae.finger"
   Projects:
     - Mental Health and Graduate School (Article): "https://medium.com/@jae.finger/anxiety-depression-and-graduate-school-198e77492dc5"
     - MediCabi Recommender (beta): "https://medicabi.herokuapp.com"
