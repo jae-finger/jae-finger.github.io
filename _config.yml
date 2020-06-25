@@ -22,8 +22,9 @@ description: Data Science | Biology | Education
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Anxiety, Depression, and Graduate School: "https://medium.com/@jae.finger/anxiety-depression-and-graduate-school-198e77492dc5"
-  #Jae's twitter: "https://twitter.com/j_a_e_f"
+    - Mental Health and Graduate School (Article): "https://medium.com/@jae.finger/anxiety-depression-and-graduate-school-198e77492dc5"
+    - MediCabi Recommender (beta): "https://medicabi.herokuapp.com"
+  GitHub: "https://github.com/jae-finger"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -32,8 +33,6 @@ navbar-links:
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
-
-
 
 # --- Background colour/image options --- #
 
@@ -48,7 +47,6 @@ hover-col: "#4f4854"
 footer-col: "#696969"
 footer-text-col: "#0E0B16"
 footer-link-col: "#480087"
-
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -129,14 +127,14 @@ share-links-active:
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch: master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  endpoint: # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : # Use your own site key, you need to apply for one on Google
-    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+    siteKey: # Use your own site key, you need to apply for one on Google
+    secret: # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 
@@ -168,16 +166,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # all files
     values:
       layout: "page"
@@ -199,8 +195,8 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
-  media: 'img'
+  rooturl: "_posts"
+  media: "img"
   ignore:
     - 404.html
     - LICENSE
@@ -252,6 +248,5 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
