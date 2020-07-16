@@ -24,8 +24,8 @@ navbar-links:
   Code: "https://github.com/jae-finger"
   Writing: "https://medium.com/@jae.finger"
   Projects:
-    - Interactive Visualizations; Anxiety and Depression in Graduate School: "https://medium.com/@jae.finger/anxiety-depression-and-graduate-school-198e77492dc5"
-    - Visualizing Mental Health and PhDs: "https://medium.com/@jae.finger/anxiety-depression-and-graduate-school-198e77492dc5"
+    - Interactive Visualizations; Anxiety, Depression, & PhDs: "https://medium.com/@jae.finger/anxiety-depression-and-graduate-school-198e77492dc5"
+    - Visualizing Mental Health and Graduate School: "https://medium.com/@jae.finger/anxiety-depression-and-graduate-school-198e77492dc5"
     - NLP Marijuana Strain Recommender: "https://medium.com/@jae.finger/building-a-marijuana-strain-recommender-system-bef3f66bb2d3"
 
 # Image to show in the navigation bar - image must be a square (width = height)
