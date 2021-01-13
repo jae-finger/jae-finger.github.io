@@ -4,7 +4,7 @@ title: About
 subtitle: Me
 ---
 
-I am a data scientist in Chicagoland with a background in evolutionary biology. Currently work on answering data-driven questions regarding k-12 education.
+Data scientist in Chicagoland with a background in evolutionary biology. Currently work on answering data-driven questions regarding k-12 education.
 
 ### Employment
 ### Data Analyst / Software Developer
