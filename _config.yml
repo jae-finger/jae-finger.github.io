@@ -24,6 +24,7 @@ navbar-links:
   Code: "https://github.com/jae-finger"
   Writing: "https://medium.com/@jae.finger"
   Projects:
+    - Augie-Bot A python twitter chat bot: "https://twitter.com/AugietheDog"
     - Interactive Visualizations; Anxiety, Depression, & PhDs: "https://medium.com/@jae.finger/anxiety-depression-and-graduate-school-198e77492dc5"
     - Visualizing Mental Health and Graduate School: "https://medium.com/@jae.finger/anxiety-depression-and-graduate-school-198e77492dc5"
     - NLP Marijuana Strain Recommender: "https://medium.com/@jae.finger/building-a-marijuana-strain-recommender-system-bef3f66bb2d3"
