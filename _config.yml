@@ -25,9 +25,10 @@ navbar-links:
   Writing: "https://medium.com/@jae.finger"
   Projects:
     - Augie-Bot A python twitter chat bot: "https://twitter.com/AugietheDog"
+    - NLP Marijuana Strain Recommender: "https://medium.com/@jae.finger/building-a-marijuana-strain-recommender-system-bef3f66bb2d3"
     - Interactive Visualizations; Anxiety, Depression, & PhDs: "https://medium.com/@jae.finger/anxiety-depression-and-graduate-school-198e77492dc5"
     - Visualizing Mental Health and Graduate School: "https://medium.com/@jae.finger/anxiety-depression-and-graduate-school-198e77492dc5"
-    - NLP Marijuana Strain Recommender: "https://medium.com/@jae.finger/building-a-marijuana-strain-recommender-system-bef3f66bb2d3"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
