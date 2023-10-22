@@ -11,6 +11,11 @@ project_entries:
     desc: Coming Soon!
     highlight: NEW
 
+    - title: Save the Birds
+    url: https://www.github.com/jae-finger
+    desc: Coming Soon!
+    highlight: NEW
+
 old_project_entries:
   - title: Sniffr
     url: https://www.github.com/jae-finger
@@ -20,9 +25,6 @@ old_project_entries:
 footer_entries:
   - title: linkedin
     url: https://www.linkedin.com/in/jae-finger/
-
-  - title: twitter
-    url: https://x.com/por_que_jae
 
   - title: github
     url: https://github.com/jae-finger
