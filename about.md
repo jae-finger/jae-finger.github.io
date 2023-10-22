@@ -4,12 +4,10 @@ title: About
 ---
 🙋‍♂️ About Jon
 
-🧙‍♂️ Hello, netizen! I'm your residential data alchemist, feasting on transformers, LLMs, and a platter of NLP with my gluten-free morning munch. Take that, wheat!
+🧙‍♂️ Greetings! I'm a data sorcerer 📊✨ who specializes in the mystical realms of NLP, LLMS, and the enchanting world of generative AI. 🌟
 
-🎓🐛 Formerly a biology grad on a crusade, I tracked invasive species gallivanting across the U.S quicker with their mind on wrecking native river systems. Presented my research on four continents - Antarctica, I'm still waiting on that invite... 🐧
+🎓🐛 In a past life, I roamed the wilds as a biologist, tirelessly tracking invasive species across the vast landscapes of the U.S., protecting native river systems from their nefarious grasp. 🌿🌊
 
-✈️ Hailing from the expansive Chicagoland, I spent a decade in Washington State's lush greenery... Traded real bugs for the digital ones, and Chicago's skyline for the Space Needle. And yes, found gluten-free deep-dish and salmon sushi! 🍕🍣
+Now, my days are spent conjuring insights and crafting actionable solutions for my clients, while I embark on epic quests to create accessible AI projects of my own. 🚀✨ Armed with the tools of science, I wield the power to unravel mysteries and provide swift solutions to an array of challenges. 🧬🔮
 
-🏖️👩‍💻🐩 When I'm not data-wrestling, I'm beach strolling along Lake Michigan with my syntax-savvy girlfriend and Augie, our pocket-sized poodle with more 'Fetch' requests than a busy server.
-
-☕ As for my veins, they're 90% caffeine and 10% audacity. If coffee was a programming language, I'd be a CoffeeScript savant. And you bet it's always with a side of gluten-free biscotti.
+When I'm not deciphering data, you'll find me in the digital realms of video games, exploring new horizons with my girlfriend 🌍✈️, and training my faithful canine companion, Augie. 🐶🏋️ We also share our apartment with two chirpy parakeets 🦜🦜 and a rather dapper pigeon 🕊️.
