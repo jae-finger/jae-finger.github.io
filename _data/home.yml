@@ -6,21 +6,21 @@ navbar_entries:
     url: blog
 
 project_entries:
-    - title: Project Pura Vida
-    url: https://www.github.com/jae-finger
-    desc: Coming Soon!
+    - title: Save the Birds
+    url: https://github.com/jae-finger/rescuethebirds-be
+    desc: FastAPI Backend for a Non-Profit Bird Rescue
     highlight: NEW
 
-    - title: Save the Birds
-    url: https://www.github.com/jae-finger
-    desc: Coming Soon!
+    - title: Discord Bot
+    url: https://github.com/jae-finger/birds-discord-bot
+    desc: Discord bot for our Save the Birds project
     highlight: NEW
 
 old_project_entries:
   - title: Sniffr
     url: https://www.github.com/jae-finger
     desc: Coming Soon! 
-    highlight: NEW
+    highlight: OLD
 
 footer_entries:
   - title: linkedin
