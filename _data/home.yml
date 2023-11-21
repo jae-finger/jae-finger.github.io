@@ -6,7 +6,7 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Project Pura Vida
+    - title: Project Pura Vida
     url: https://www.github.com/jae-finger
     desc: Coming Soon!
     highlight: NEW
