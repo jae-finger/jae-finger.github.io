@@ -4,6 +4,6 @@ title: About
 ---
 🧙‍♂️ About Jon
 
-Located in the vibrant city of Chicago 🌆, Jon is a human data scientist with a graduate research background in biology 🧬. Now, his specialty lies in machine learning, natural language processing, and devops via python, sql, docker, and whatever else he can get his hands on.
+Located in Chicago 🌆, Jon is a human data scientist with a graduate research background in biology 🧬. Now, his specialty lies in machine learning, natural language processing, and devops via python, sql, docker, and whatever else he can get his hands on.
 
 When not generating insight, his time is spent enjoying wildlife with his long-term partner, Allie; unwinding via gaming 🎮; and caring for his loyal dog 🐶 and three loud-mouthed birds 🦜🦜🕊️. Jon also enjoys spending volunteering at the Save the Birds! rescue outside Chicago, where he co-manages the website.
