@@ -88,19 +88,22 @@ html {
 //       --share-text: #C4C4C4;
 //   };
 // }
+
 @mixin dark-appearance {
   html, body  {
-      --headings: #6a00ff;
-      --links: #722222;
-      --highlight: #ffffff;
-      --bg: #2e3135;
-      --bg-secondary: #404754;
-      --text: #adb5bd;
-      --text-secondary: #9CA3AF;
-      --code-text: #91A7FF;
-      --share-text: #C4C4C4;
+      --headings: #B983FF; /* Neon purple for headings */
+      --links: #D6BBFB; /* Lighter purple for links */
+      --highlight: #8C82FC; /* Gray with a hint of purple for highlights */
+      --bg: #1f242A; /* Background, unchanged */
+      --bg-secondary: #323945; /* Secondary background, unchanged */
+      --text: #ECECEF; /* Lighter gray for text */
+      --text-secondary: #C0C0C0; /* Darker gray for secondary text */
+      --code-text: #9E77ED; /* Bold purple for code */
+      --share-text: #A9A9A9; /* Contrasting gray for share text */
   };
 }
+
+
 html[data-theme="dark"] { @include dark-appearance; }
 
 @media (prefers-color-scheme: dark) {
