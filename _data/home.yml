@@ -9,18 +9,18 @@ project_entries:
   - title: Save the Birds! Refuge
     url: https://github.com/jae-finger/rescuethebirds-be
     desc: FastAPI Backend for a Non-Profit Bird Rescue
-    highlight: NEW
+    highlight: Backend
 
   - title: Discord Bot
     url: https://github.com/jae-finger/birds-discord-bot
     desc: Discord bot for our Save the Birds project
-    highlight: NEW
+    highlight: Python
 
 old_project_entries:
   - title: Masters Thesis
     url: https://www.dissertations.wsu.edu/Thesis/Spring2018/J_Finger_041718.pdf
     desc: Graduate thesis on modeling range expansion of an invasive species 
-    highlight: Old
+    highlight: Biology
 
 footer_entries:
   - title: linkedin
