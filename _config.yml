@@ -1,7 +1,7 @@
 title: Jon Finger
 author: JAE Finger
 url: https://www.jonfinger.com # root address of the site
-description: Homepage, blog, and portfolio for Jon Finger
+description: # site description
 
 
 permalink: /:slug
