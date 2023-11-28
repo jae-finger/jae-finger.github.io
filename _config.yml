@@ -1,7 +1,7 @@
 title: Jon Finger
 author: JAE Finger
 url: https://www.jonfinger.com # root address of the site
-description: # site description
+description: > # description of the site (multiple lines allowed)
 
 
 permalink: /:slug
