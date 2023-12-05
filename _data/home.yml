@@ -9,12 +9,12 @@ project_entries:
   - title: Save the Birds! Refuge
     url: https://github.com/jae-finger/rescuethebirds-be
     desc: FastAPI Backend for a Non-Profit Bird Rescue
-    highlight: Server
+    highlight: FastApi
 
   - title: Discord Chat Bot
     url: https://github.com/jae-finger/birds-discord-bot
-    desc: Discord chat bot for our Save the Birds project
-    highlight: Python
+    desc: Discord python bot for our Save the Birds project
+    highlight: Chatbot
 
 old_project_entries:
   - title: Biology Masters Thesis
