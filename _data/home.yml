@@ -6,10 +6,15 @@ navbar_entries:
     url: blog
 
 project_entries:
+  - title: Success Journal
+    url: https://github.com/Success-Journal-Project/success_journal_be
+    desc: Backend for a journaling app
+    highlight: FastApi, Python, Docker
+
   - title: Save the Birds! Refuge
     url: https://github.com/jae-finger/rescuethebirds-be
     desc: FastAPI Backend for a Non-Profit Bird Rescue
-    highlight: FastApi
+    highlight: FastApi, Python, Docker
 
   - title: Discord Chat Bot
     url: https://github.com/jae-finger/birds-discord-bot

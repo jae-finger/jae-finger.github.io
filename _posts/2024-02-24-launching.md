@@ -4,8 +4,8 @@ author: Jon
 tags: [new, blog]
 ---
 
-# 🚀 Lauching... 🚀
-Hello there! I'm Jon. This website is my digital scratchpad, a place where I bring together my thoughts, projects, and code.
+# Re-Lauching in 3... 2... 1... 🚀
+Hello there! I'm Jon. This website is my digital journal and portfolio, a place where I bring together my thoughts, projects, and code.
 
 🔍 Deep Dives into Data: Here, you'll find my insights and analyses on various topics, where I delve into the depths of data science, software engineering, or whatever other data I find interesting!
 
