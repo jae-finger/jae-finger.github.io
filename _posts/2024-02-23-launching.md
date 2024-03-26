@@ -4,13 +4,14 @@ author: Jon
 tags: [new, blog]
 ---
 
-# Re-Lauching in 3... 2... 1... 🚀
-Hello there! I'm Jon. This website is my digital journal and portfolio, a place where I bring together my thoughts, projects, and code.
+# Changes Beginning
 
-🔍 Deep Dives into Data: Here, you'll find my insights and analyses on various topics, where I delve into the depths of data science, software engineering, or whatever other data I find interesting!
+As the sun sets on our latest life chapter in Chicago, we're gearing up for some major life changes ⚠️. We've been here for a couple years now helping family, but it's time to move on.
 
-🛠️ Projects Showcase: From machine learning models to natural language processing applications, this section is a window into my current projects.
+I find myself filled with gratitude 🙏 for the freedom that my career in tech and data science has afforded me. It's a stark contrast to my previous life in academia, where I felt tethered and restricted. Now, I'm not chained to a random city in the middle of Idaho, but rather, I have the liberty to move around relatively freely.
 
-👨‍💻 Code and Collaboration: As a firm believer in open-source and collaborative learning, I'll be sharing snippets of my code, useful tools, and resources. Check out some of the projects I've been involved in mentoring, contributing to open source, or helping nonprofits!
+Next stop: California 🗻🏜️.  The freedom and ability to make this move is not just a logistical win, but a massive boost for my mental health 🧘‍♂️. 
 
-So, dive in, explore, and let's scribble outside the lines.
+Looking back, it's almost surreal to think about how close I was to a completely different life. A life where this kind of freedom and flexibility was merely a dream. I never knew this life & path was possible, and I consider myself incredibly lucky to have found this escape route when I did 🍀.
+
+So, here's to the next chapter, the next adventure, and the endless possibilities that await us. California, here we come! 🛻💨

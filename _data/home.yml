@@ -8,7 +8,7 @@ navbar_entries:
 project_entries:
   - title: Success Journal
     url: https://github.com/Success-Journal-Project/success_journal_be
-    desc: Backend for a journaling app
+    desc: Backend for a collegiate athlete journaling app
     highlight: FastApi, Python, Docker
 
   - title: Save the Birds! Refuge
