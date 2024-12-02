@@ -9,7 +9,7 @@ project_entries:
   - title: Repair Dog
     url: coming soon
     desc: coming soon
-    highlight: AI, Docker, FastApi
+    highlight: AI, Python
 
 old_project_entries:
   - title: Biology Masters Thesis
