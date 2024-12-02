@@ -6,7 +6,7 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Repair Dog
+  - title: Repair Dog App  
     url: coming soon
     desc: coming soon
     highlight: AI, Python
